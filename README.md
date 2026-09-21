@@ -31,6 +31,24 @@ Selector de wallpapers con estética ornamentada para Linux + bspwm (y cualquier
 - 🎨 [`pywal`](https://github.com/dylanaraps/pywal) + script `themes` (para regenerar colores al confirmar)
 - 📦 `PySide6-Essentials` y `Pillow` (se instalan solos con el instalador)
 
+## ⚡ Instalación rápida (un solo comando, sin bspwm)
+
+Pega esto en la terminal de tu distro nueva / VM e instala **todo lo necesario** (git, python, feh, sxhkd, PySide6, Pillow y pywal):
+
+**Debian / Ubuntu / Kali:**
+
+```bash
+sudo apt update && sudo apt install -y git python3 python3-pip feh sxhkd && (pip install --user --break-system-packages PySide6-Essentials Pillow pywal || pip install --user PySide6-Essentials Pillow pywal)
+```
+
+**Arch / derivados:**
+
+```bash
+sudo pacman -S --needed git python python-pip feh sxhkd && pip install --user --break-system-packages PySide6-Essentials Pillow pywal
+```
+
+Después clona y corre el instalador (pasos 1 y 3 de abajo).
+
 ## 🚀 Instalación paso a paso
 
 ### 1️⃣ Clona el repo
