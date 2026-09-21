@@ -1,8 +1,8 @@
-# 🖤 Gothic Wallpaper Selector
+# 🖤 Wallpaper Selector
 
-Selector de wallpapers con estética gótica/victoriana para Linux + bspwm (y cualquier WM de X11). Carrusel estilo coverflow sobre fondo difuminado, marco ornamentado que funciona como buscador, y firma automática con tu nombre de usuario.
+Selector de wallpapers con estética ornamentada para Linux + bspwm (y cualquier WM de X11). Carrusel estilo coverflow sobre fondo difuminado, marco ornamentado que funciona como buscador, y firma automática con tu nombre de usuario.
 
-![estilo](https://img.shields.io/badge/estilo-gótico-black) ![qt](https://img.shields.io/badge/Qt-6_QML-green) ![wm](https://img.shields.io/badge/WM-bspwm-red)
+![qt](https://img.shields.io/badge/Qt-6_QML-green) ![wm](https://img.shields.io/badge/WM-bspwm-red)
 
 ## ✨ Características
 
@@ -27,8 +27,8 @@ Selector de wallpapers con estética gótica/victoriana para Linux + bspwm (y cu
 ### 1️⃣ Clona el repo
 
 ```bash
-git clone https://github.com/h4tedk1ll/gothic-wallpaper-selector.git
-cd gothic-wallpaper-selector
+git clone https://github.com/h4tedk1ll/Wallpaper-slector.git
+cd Wallpaper-slector
 ```
 
 ### 2️⃣ Instala las dependencias del sistema
@@ -94,7 +94,7 @@ Pulsa `Super + Shift + W`. Deberías ver la tira sobre tu fondo difuminado. ¡Li
 ## 🗂️ Estructura
 
 ```
-gothic-wallpaper-selector/
+Wallpaper-slector/
 ├── selector.py          # backend: lista, filtra, preview, aplica, blur
 ├── Main.qml             # ventana, tira coverflow, buscador, firma
 ├── WallpaperItem.qml    # delegate de cada fondo

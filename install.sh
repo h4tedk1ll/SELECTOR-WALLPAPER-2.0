@@ -5,7 +5,7 @@ set -e
 APP_DIR="$HOME/wallpaper-selector-qml"
 WP_DIR="$HOME/Wallpapers"
 
-echo "🖤 Gothic Wallpaper Selector — instalador"
+echo "🖤 Wallpaper Selector — instalador"
 echo ""
 
 echo "📦 [1/4] Dependencias python..."
