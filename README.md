@@ -1,8 +1,20 @@
-# 🖤 Wallpaper Selector
+# 🦇 Wallpaper Selector
 
 Selector de wallpapers con estética ornamentada para Linux + bspwm (y cualquier WM de X11). Carrusel estilo coverflow sobre fondo difuminado, marco ornamentado que funciona como buscador, y firma automática con tu nombre de usuario.
 
 ![qt](https://img.shields.io/badge/Qt-6_QML-green) ![wm](https://img.shields.io/badge/WM-bspwm-red)
+![QML](https://img.shields.io/badge/QML-63%25-blue) ![Python](https://img.shields.io/badge/Python-30%25-yellow) ![Shell](https://img.shields.io/badge/Shell-7%25-gray)
+
+![repo](https://github-readme-stats.vercel.app/api/pin/?username=h4tedk1ll&repo=SELECTOR-WALLPAPER-2.0&theme=dark)
+
+> 📊 GitHub genera solo la barra de lenguajes del repo (QML · Python · Shell) en cuanto entras.
+
+## 📸 Demostración
+
+![demo 1](screenshots/demo-1.png)
+![demo 2](screenshots/demo-2.png)
+![demo 3](screenshots/demo-3.png)
+![demo 4](screenshots/demo-4.png)
 
 ## ✨ Características
 
@@ -109,4 +121,4 @@ MIT — úsalo y modifícalo libremente. Si te gusta, una ⭐ se agradece.
 
 ## 👤 Autor
 
-Hecho por **h4tedk1ll** 🖤
+Hecho por **h4tedk1ll** 🦇
