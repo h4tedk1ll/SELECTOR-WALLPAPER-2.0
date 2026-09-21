@@ -11,10 +11,7 @@ Selector de wallpapers con estética ornamentada para Linux + bspwm (y cualquier
 
 ## 📸 Demostración
 
-![demo 1](screenshots/demo-1.png)
-![demo 2](screenshots/demo-2.png)
-![demo 3](screenshots/demo-3.png)
-![demo 4](screenshots/demo-4.png)
+![demo](screenshots/demo-4.png)
 
 ## ✨ Características
 
